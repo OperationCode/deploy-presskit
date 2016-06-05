@@ -13,7 +13,6 @@ Deploy started as an experiment in the fall of 2015 to shorten the dreaded junio
 Our website is http://operationcode.org/deploy.
 
 ## Social
-
-Twitter: https://twitter.com/operation_code
-Facebook: https://facebook.com/operationcode.org
-Instagram: https://instagram.com/operation_code
+- Twitter: https://twitter.com/operation_code
+- Facebook: https://facebook.com/operationcode.org
+- Instagram: https://instagram.com/operation_code
